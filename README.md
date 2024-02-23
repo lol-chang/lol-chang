@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### 🌱 Plan : CEO + Developer
+
+###💬
+I'm using coding for my cash flow.
+I'v been trying to make a profit from my online business.
+
+So, flutter is one of my favorite and interested skills.
 <!--
 **lol-chang/lol-chang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
