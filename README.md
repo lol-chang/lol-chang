@@ -1,16 +1,16 @@
 
 ### 👋 안녕하세요. 
-### 🌱 Plan : (changing)
+### 🌱 Plan : ???
 
 ### 💬 Intro
 <p>
-  (changing)
+  ???
 </p>
 
 <!-- Badges -->
 ### 😎 Interested Tech
 <p>
-  (changing)
+  ???
 </p>
 
 <br/> <br/>
